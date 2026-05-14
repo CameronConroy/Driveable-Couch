@@ -6,3 +6,5 @@
 | Seatbelts | $20 |
 | Extra wheels | $20 |
 | Metal | $100 |
+
+**Total: $360**
