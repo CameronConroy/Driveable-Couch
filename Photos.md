@@ -1,4 +1,4 @@
-![1](Picture1.jpg)
+![1](Picture1.jpeg)
 ![2](Picture2.jpeg)
 ![3](Picture3.jpeg)
 ![4](Picture4.jpeg)
@@ -6,4 +6,4 @@
 ![6](Picture6.PNG)
 ![7](Picture7.JPG)
 ![8](Picture8.JPG)
-![9](Picture9.jpg)
+![9](Picture9.JPG)
