@@ -3,6 +3,7 @@
 |------|------|
 | Go kart base | $200 |
 | Couch | $20 |
+| Automan | $30 |
 | Seatbelts | $20 |
 | Extra wheels | $20 |
 | Metal | $100 |
