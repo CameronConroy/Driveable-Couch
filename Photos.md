@@ -6,4 +6,4 @@
 ![6](Photos/Picture6.PNG)
 ![7](Photos/Picture7.JPG)
 ![8](Photos/Picture8.JPG)
-![9](Photos/Picture9.jpg)
+![9](Photos/Picture9.JPG)
